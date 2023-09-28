@@ -73,7 +73,7 @@ body {
 .main_card__submit button {
     background-color: hsl(25, 97%, 53%);
     border: none;
-    padding: 20px 145px;
+    padding: 15px 145px;
     border-radius: 40px;
     color: white;
     font-weight: 400;
